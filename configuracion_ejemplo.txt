@@ -1,0 +1,18 @@
+# Archivo de configuración de ejemplo
+# Uso académico para TFM OSINT
+# No contiene credenciales reales
+
+APP_NAME=Sistema_Prueba_OSINT
+APP_ENV=desarrollo
+APP_URL=https://example.com
+
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=base_prueba_osint
+DB_USER=usuario_prueba
+DB_PASSWORD=NO_ES_UNA_CONTRASEÑA_REAL
+
+API_ENDPOINT=https://api.example.com/v1
+API_KEY_EJEMPLO=NO_ES_UNA_CLAVE_REAL
+
+NOTA=Este archivo contiene información simulada para fines académicos.
