@@ -18,6 +18,10 @@ Mostrar cómo una fuente pública como GitHub puede contener información técni
 - `configuracion_ejemplo.txt`: archivo ficticio de configuración.
 - `documentacion_prueba.md`: documentación técnica simulada.
 
+## Alcance
+
+Este repositorio no representa una empresa, institución ni sistema real. Su contenido fue creado únicamente para fines académicos y para apoyar el caso práctico del TFM.
+
 ## Aviso
 
-Este repositorio no representa un sistema real. Todo el contenido es de prueba.
+Este repositorio no contiene información sensible. Cualquier dato técnico incluido es simulado y no debe interpretarse como una configuración real.
